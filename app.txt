@@ -1,6 +1,10 @@
+ HEAD
 
 esta linea SI quiero mantener
 esta es una nueva linea de prueba
 linea agregada desde feature-login 
 esta linea fue modificada en master
+linea modificada en desarrollo
+esta linea fue modificada en desarrollo 
+desarrollo
 
