@@ -5,5 +5,8 @@ esta es una nueva linea de prueba
 linea agregada desde feature-login 
 esta linea fue modificada en master
 linea modificada en desarrollo
+HEAD
 LINEA MODIFCIADA EN CONFLICTOS A
+LINEA MODIFICADA EN CONFLICTO B
+
 
