@@ -8,5 +8,5 @@ linea modificada en desarrollo
 HEAD
 LINEA MODIFCIADA EN CONFLICTOS A
 LINEA MODIFICADA EN CONFLICTO B
-
+linea agregada por Dev B
 
